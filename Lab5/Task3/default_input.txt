@@ -1,0 +1,9 @@
+fixed|Anton Bazdyrev|1|21332.5
+hourly|Peter Peterson|2|153.5
+fixed|David Gilmour|3|23124.44
+fixed|James Hetfield|4|113342.5
+hourly|Nick Mason|5|114.23
+hourly|Richard Wright|6|201.42
+fixed|Kirk Hammet|7|23342
+fixed|Andy James|8|3201.32
+hourly|Jimmy Page|1323.32

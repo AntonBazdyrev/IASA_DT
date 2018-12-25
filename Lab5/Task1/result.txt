@@ -1,0 +1,22 @@
+Output of Task1:
+
+Time for adding items into collections:
+class java.util.LinkedList 88.484746 ns.
+class java.util.ArrayList 153.031772 ns.
+class java.util.TreeSet 389.193491 ns.
+class java.util.HashSet 231.921106 ns.
+Time for searching items in collections:
+class java.util.LinkedList 14897.183636363636 ns.
+class java.util.ArrayList 7800.374343434343 ns.
+class java.util.TreeSet 352.1259595959596 ns.
+class java.util.HashSet 78.75434343434344 ns.
+Time for removing items from collections:
+class java.util.LinkedList 4054.090777777778 ns.
+class java.util.ArrayList 227649.2368888889 ns.
+class java.util.TreeSet 798.5045555555556 ns.
+class java.util.HashSet 269.06155555555557 ns.
+
+Добавление элементов в конец ArrayList и LinkedList происходит в среднем за почти одинаковое время,
+в данном случае LinkedList оказался быстрее. В TreeSet и HashSet время добавления значительно дольше.
+
+Для поиска и удаления элементов HashSet и TreeSet работают гораздо быстрее, чем ArrayList и LinkedList, при этом HashSet быстрее, чем TreeSet
